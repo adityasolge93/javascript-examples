@@ -34,3 +34,9 @@ TBD
 ### Day-02
 1. Perform == and === check on non-primitive types.
 2. Rules of assignment for const type.
+
+### Day-03
+1. Mix-and-match Practice: For example, return closure from IIFE and see if it works. Perform other mix-and-match to better your understanding.
+2. Array Destructuring: Follow destructing example-1 and implement Array destructuring.
+3. What happens when we pass non-function value to map function of Array?
+4. [MANDATORY] Implement your own map method (myMap) on array. Hint: Make use of concepts we learned so far like call(), bind(), etc. Retain the same functionality that original map does.
