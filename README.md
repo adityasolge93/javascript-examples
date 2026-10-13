@@ -26,3 +26,11 @@ You must clone the respository and open it using Visual Studio Code. The Visual 
   2. Arrow functions
   3. Callback functions
   4. Higher-order functions
+
+## Practice Challenges
+### Day-01
+TBD
+
+### Day-02
+1. Perform == and === check on non-primitive types.
+2. Rules of assignment for const type.
